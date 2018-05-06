@@ -1,0 +1,17 @@
+{
+  "name": "telebot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.17.4",
+    "request": "^2.85.0"
+  }
+}
